@@ -1,0 +1,13 @@
+from django.contrib import admin
+
+# Register your models here.
+
+from.models import *
+
+
+admin.site.register(ValidMobileNumber)
+admin.site.register(Product)
+admin.site.register(Address)
+admin.site.register(Order)
+admin.site.register(OrderItem)
+admin.site.register(CartItem)
