@@ -1,1 +1,1 @@
-web: gunicorn Foodie.wsgi:application --log-file -
+web: gunicorn digiaata.wsgi:application --log-file -
