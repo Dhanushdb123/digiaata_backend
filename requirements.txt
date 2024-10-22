@@ -1,0 +1,16 @@
+asgiref
+dj-database-url
+dj-environ
+Django
+django-environ
+django-heroku
+djangorestframework
+gunicorn
+packaging
+pillow
+psycopg2
+python-decouple
+six
+sqlparse
+typing-extensions
+whitenoise
