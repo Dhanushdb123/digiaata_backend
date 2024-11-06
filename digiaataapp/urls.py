@@ -15,5 +15,4 @@ urlpatterns = [
     path('order/create/', views.create_order, name='create-order'),
     path('payment/process/', views.process_payment, name='process-payment'),
 
-
 ]
